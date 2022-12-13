@@ -1,0 +1,6 @@
+{
+  "name": "@eiau/utils",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.ts"
+}
